@@ -9,6 +9,8 @@ Based on "Home Assistant PowerCalc" at https://github.com/bramstroker/homeassist
 
 Based on "Using power consumption to show information (status, elapsed time, count) of ..." at https://community.home-assistant.io/t/using-power-consumption-to-show-information-status-elapsed-time-count-of-cycles-on-a-dish-washer/382248/2
 
+Based on "Energy monitoring GPO (Tapo P110) for the washing maching" at https://www.tp-link.com/nl/support/faq/3417/
+
 ## Devices with power (W) sensors
 
 Some smart devices, such as air conditioning, boilers, and others, may provide a power sensor, measured in Watts. You can use the Integration (Riemann sum integral) integration to calculate the energy your device is using. You can then use the energy sensor in the Energy Dashboard, as individual devices.
