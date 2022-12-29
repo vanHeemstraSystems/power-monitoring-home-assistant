@@ -1,7 +1,9 @@
-riemann-sum-integral-home-assistant
-# Riemann Sum Integral with Home Assistant
+power-monitoring-home-assistant
+# Power Monitoring with Home Assistant
 
 Based on "Riemann sum integral" at https://www.home-assistant.io/integrations/integration/#energy
+
+Based on "COMPLETE power monitoring for your home!" at https://www.youtube.com/watch?v=tR1x-cxwK-8
 
 ## Devices with power (W) sensors
 
